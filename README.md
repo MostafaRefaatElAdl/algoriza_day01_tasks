@@ -1,1 +1,1 @@
-# Algorza Tasks
+# Algoriza Tasks
