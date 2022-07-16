@@ -1,0 +1,6 @@
+<svg id="step" xmlns="http://www.w3.org/2000/svg" width="80" height="9" viewBox="0 0 80 9">
+  <rect id="Rectangle" width="33" height="9" rx="4" transform="translate(15)" fill="#fd8700"/>
+  <rect id="Rectangle_Copy" data-name="Rectangle Copy" width="10" height="9" rx="4" fill="#d4d4d4"/>
+  <rect id="Rectangle_Copy_2" data-name="Rectangle Copy 2" width="10" height="9" rx="4" transform="translate(54)" fill="#d4d4d4"/>
+  <rect id="Rectangle_Copy_3" data-name="Rectangle Copy 3" width="10" height="9" rx="4" transform="translate(70)" fill="#d4d4d4"/>
+</svg>
